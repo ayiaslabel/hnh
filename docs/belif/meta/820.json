@@ -1,0 +1,39 @@
+{
+    "name": "belif Duncan #820",
+    "description": "belif Herb Club is a gathering of supporters of belif, a beauty brand that believes that herbs save the world. The group of fairies will protect people's skin with herbal secrets and do eco-friendly activities together for a sustainable ecosystem.",
+    "image": "https://hnh.dsclabel.co.kr/belif/img/820.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Moisturizing Bomb"
+        },
+        {
+            "trait_type": "Decoration",
+            "value": "Night Party"
+        },
+        {
+            "trait_type": "Clothes",
+            "value": "Check Vest"
+        },
+        {
+            "trait_type": "Brownie",
+            "value": "Hide Seek"
+        },
+        {
+            "trait_type": "Item",
+            "value": "Balloon"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Bachelor Cap"
+        },
+        {
+            "trait_type": "Emblem",
+            "value": "Herb Shop"
+        },
+        {
+            "trait_type": "Frame",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "DSC Mate #1336",
+  "description": "클레이튼 체인 최초의 제너레이티브 아트, 도지사운드클럽의 투표권으로 사용됨.",
+  "image": "https://api.dogesound.club/mate/images/dscMate-1336.png",
+  "background_color": "#F6D613",
+  "sendable": true,
+  "attributes": [
+    {
+      "trait_type": "Level",
+      "value": 5,
+      "max_value": 11
+    },
+    {
+      "trait_type": "Face",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Face Detail B",
+      "value": "Frightened Mouth"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Medical Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Headset with LED"
+    }
+  ],
+  "external_url": "https://dogesound.club/mates/1336"
+}

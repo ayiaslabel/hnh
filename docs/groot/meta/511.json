@@ -1,0 +1,53 @@
+{
+    "tokenId": "511",
+    "name": "DrGroot #511",
+    "description": "Meet Dr.Groot, who is dedicated to recover lost hair for all mankind! As Dr.Groot and his genius grandson, Mike, time-slip to the past to retrieve the secret ingredient, a great adventure unfolds. Tag along the stories of Dr.Groot, which is presented in PFP art form with ample benefits for the holders (Dr.Groot is a hair-care brand specialized in hair loss control).         \n\n※ Notice: Dr.Groot products are only available for the original buyer. Purchases from OpenSea are excluded from receiving the products.      \n\n먼 미래의 지구. 잃어버린 모발을 찾아 과거로 떠난 닥터 그루트의 모험! 천재 소년 마이크와 닥터 그루트는 과연 인류의 건강과 머리숱을 되찾아 줄 수 있을까요? 다양한 헤어케어 고민을 해결하는 전문 브랜드, 닥터그루트가 선보이는 최초의 PFP 아트 컬렉션과 홀더 전용 혜택을 만나보세요.      \n\n주의 : 닥터그루트 실물 제품은 1차 구매 시에만 발송되며, 오픈시 거래를 통한 구매는 해당 사항이 없습니다.",
+    "image": "https://hnh.dsclabel.co.kr/groot/img/drgroot_511.png",
+    "external_url": "https://hnh.dsclabel.co.kr/groot/img/drgroot_511.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "green"
+        },
+        {
+            "trait_type": "face",
+            "value": "default"
+        },
+        {
+            "trait_type": "eye",
+            "value": "base"
+        },
+        {
+            "trait_type": "mouth",
+            "value": "smile"
+        },
+        {
+            "trait_type": "cloth",
+            "value": "funkred"
+        },
+        {
+            "trait_type": "whiteborder",
+            "value": "white"
+        },
+        {
+            "trait_type": "logoborder",
+            "value": "black"
+        },
+        {
+            "trait_type": "hair",
+            "value": "base"
+        },
+        {
+            "trait_type": "eyebrow",
+            "value": "thick"
+        },
+        {
+            "trait_type": "mustache",
+            "value": "narrowbeard"
+        },
+        {
+            "trait_type": "item",
+            "value": "glasses"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "DSC Mate #4094",
+  "description": "클레이튼 체인 최초의 제너레이티브 아트, 도지사운드클럽의 투표권으로 사용됨.",
+  "image": "https://api.dogesound.club/mate/images/dscMate-4094.png",
+  "background_color": "#F6D613",
+  "sendable": true,
+  "attributes": [
+    {
+      "trait_type": "Level",
+      "value": 3,
+      "max_value": 11
+    },
+    {
+      "trait_type": "Face",
+      "value": "Tiger"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Red Scarf"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "I dont know Eyes"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Hoodie"
+    }
+  ],
+  "external_url": "https://dogesound.club/mates/4094"
+}
